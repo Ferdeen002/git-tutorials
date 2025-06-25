@@ -1,1 +1,2 @@
-# git-course-demo
+# git-tutorials
+Git dummies git 
